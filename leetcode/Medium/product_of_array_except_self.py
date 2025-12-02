@@ -1,0 +1,14 @@
+# https://leetcode.com/problems/product-of-array-except-self/
+# Resource: https://www.youtube.com/watch?v=bNvIQI2wAjk&t=3s
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        output = [1] * len(nums)
+        product = 1
+        for i in range(len(nums)):
+            output[i] = product
+            product *= nums[i]
+        product = 1
+        for i in range(len(nums)-1, -1, -1):
+            output[i] *= product
+            product *= nums[i]
+        return output

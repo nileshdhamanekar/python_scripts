@@ -1,0 +1,44 @@
+Big O Notations:
+----------------
+Great article on describing time complexities, explained in simple manner.
+Examples given are in python but can be applied to other programming languages:
+https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7
+
+Concepts:
+---------
+REST:
+    - What is REST API:
+        - https://www.youtube.com/watch?v=qVTAB8Z2VmA
+        - https://www.youtube.com/watch?v=LooL6_chvN4&t=804s
+    - Implementing REST client in Python using requests:
+        -
+
+HTTP:
+    - GET, POST, PUT, DELETE:
+        - https://www.youtube.com/watch?v=guYMSP7JVTA
+
+Docker:
+
+Kubernetes:
+
+AWS:
+    - S3:
+        -
+
+Microservices:
+    - https://www.youtube.com/watch?v=j1gU2oGFayY
+
+Distributes Systems:
+
+Hadoop:
+    - Hadoop vs Spark: https://www.youtube.com/watch?v=2PVzOHA3ktE
+
+Python concepts:
+----------------
+Flask:
+    - Home automation REST endpoint using Flask, docker, simple database, POSTMAN etc.
+        - https://www.youtube.com/watch?v=4T5Gnrmzjak
+
+REST client:
+    - 
+

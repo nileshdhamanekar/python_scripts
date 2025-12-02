@@ -1,0 +1,4 @@
+Here’s a real world example. In one of my past jobs, I did multiple tests for a hardware device.
+Each test was written using a Python script with the test script file name used as a title.
+These scripts would then be executed and could print their status using the __file__ special attribute.
+Here’s an example folder structure:
